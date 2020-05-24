@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/johanbrook/eleventy-plugin-typeset#readme",
   "dependencies": {
-    "typeset": "^0.2.2"
+    "typeset": "https://github.com/r6203/Typeset"
   },
   "prettier": {
     "trailingComma": "es5",
